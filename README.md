@@ -19,4 +19,4 @@ Run Basic SQL Queries:<br />
 -Practicing using SQL functions and WHERE clauses to filter and aggregate data.<br />
 <br />
 Explore Table Management:<br />
-Modifying table schemas and exploring features like partitioning and clustering to optimize query performance.<br />
+-Modifying table schemas and exploring features like partitioning and clustering to optimize query performance.<br />
